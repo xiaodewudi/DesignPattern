@@ -1,4 +1,4 @@
-package com.single_ton;
+package com.template;
 
 /**
  * 模板设计模式
